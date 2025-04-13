@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 📌 Some of My Projects
 
-- 🔹 [Personal Website](https://github.com/yourusername/kisisel-web): A static website where I share my projects and blogs.
+- 🔹 [Personal Website](https://barisceyhun26.github.io/profile-site/): A static website where I share my informations.
 
 ---
 
